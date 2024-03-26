@@ -58,6 +58,15 @@ Once the application is running, you can access the following endpoints:
 
 
 - `POST /eccs/stations/`: Add a new charging station.
+  
+    Request body sample:
+{
+    "id": "CS0001",
+    "latitude": 52.5200,
+    "longitude": 13.4050,
+    "zipcode": "10115"
+}
+
 
 Note: API have configuration for prefix: "/eccs". You can find it in application.properties
 
