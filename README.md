@@ -1,4 +1,4 @@
-# Hubject Electri Car Charging Station
+# Hubject Electric Car Charging Station
 
 RESTful interface for the storage and retrieval of charging station data using JAVA and Spring framework.
 
